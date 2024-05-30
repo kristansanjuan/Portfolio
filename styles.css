@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
 }
 
 .profile-pic{
@@ -143,4 +144,21 @@ main {
 
 .git3 {
     margin-right: 60px;
+}
+
+.linked {
+    margin-right: 300px;
+}
+
+.mail {
+    margin-right: 330px;
+}
+
+.gitlink {
+    margin-right: 320px;
+}
+
+.icontent1 {
+    width: 60px;
+    height: auto;
 }
